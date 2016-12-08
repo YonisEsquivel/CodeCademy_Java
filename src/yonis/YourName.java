@@ -26,5 +26,9 @@ public class YourName {
 		int quotient = 45 / 3;
 		
 		System.out.println(sum);
+		
+		//Modulo
+		int modulo = 5%3;
+		System.out.println(modulo);
 	}
 }
