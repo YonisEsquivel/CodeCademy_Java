@@ -30,5 +30,8 @@ public class YourName {
 		//Modulo
 		int modulo = 5%3;
 		System.out.println(modulo);
+		
+		//Operadores relacionales > >= < <=
+		System.out.println(6>=6);
 	}
 }
