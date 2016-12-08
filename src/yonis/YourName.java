@@ -33,5 +33,8 @@ public class YourName {
 		
 		//Operadores relacionales > >= < <=
 		System.out.println(6>=6);
+		
+		//Operadores de igualdad == !=
+		System.out.println(true != false);
 	}
 }
