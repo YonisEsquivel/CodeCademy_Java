@@ -45,5 +45,7 @@ public class YourName {
 		 * Operadores relacionales < > <= >=
 		 * Operadores de igualdad == !=
 		 * */
+		//Curiosidad
+		System.out.println(5 + 5 != 110 % 100);
 	}
 }
