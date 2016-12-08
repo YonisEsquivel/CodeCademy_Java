@@ -36,5 +36,14 @@ public class YourName {
 		
 		//Operadores de igualdad == !=
 		System.out.println(true != false);
+		
+		
+		
+		/*
+		 * Tipos de datos > int boolean char
+		 * Operadores aritmeticos > + - * / %
+		 * Operadores relacionales < > <= >=
+		 * Operadores de igualdad == !=
+		 * */
 	}
 }
