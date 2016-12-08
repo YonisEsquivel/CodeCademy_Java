@@ -12,6 +12,10 @@ public class YourName {
 		boolean isFun = true;
 		char movieRating = 'A';
 		
-		
+		// Comentario de linea
+		/*
+		 * Comentario
+		 * MULTILINEA
+		 * */
 	}
 }
