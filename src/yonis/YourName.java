@@ -17,5 +17,14 @@ public class YourName {
 		 * Comentario
 		 * MULTILINEA
 		 * */
+		
+		//Aritmetica
+		
+		int sum = 34 + 113;
+		int difference = 91 - 205;
+		int product = 2 * 8; 
+		int quotient = 45 / 3;
+		
+		System.out.println(sum);
 	}
 }
